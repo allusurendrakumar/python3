@@ -1,2 +1,2 @@
-import numpy as np
-print np.amax([1, 2, 3, 4])
+nums = [1, 8, 2, 23, 7, -4, 18, 23, 42, 37, 2]
+max( nums )
